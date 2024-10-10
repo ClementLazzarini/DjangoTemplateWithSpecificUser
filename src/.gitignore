@@ -5,5 +5,3 @@ db.sqlite3
 Secret_google.json
 .DS_Store
 .idea
-.idea/*
-
